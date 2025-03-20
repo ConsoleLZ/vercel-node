@@ -1,6 +1,11 @@
 ## vercel官网
 https://vercel.com/
 
+## 本地安装vercel
+```sh
+npm i vercel -g
+```
+
 ## 登录到vercel
 ```sh
 vercel login
